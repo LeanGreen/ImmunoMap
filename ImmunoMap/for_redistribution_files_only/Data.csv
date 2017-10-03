@@ -1,0 +1,5 @@
+Filename,# of Unique CDR3,Shannon Entropy,Number Of Motifs,Richness of Motifs,Singular Clones (% of Seq),Contribution of Singular Clones (% of Response),TCR Diversity Score
+2_Sp_Con_TRP2.tsv,140,4.0318,23,1.5652,74.2857,89.0365,0.56212
+3_Sp_T_TRP2.tsv,158,3.3109,13,1.8462,74.0506,92.883,0.5054
+SIY_Control_Spleen_3.tsv,352,4.5582,19,7.2632,39.2045,54.1682,0.49119
+SIY_Spleen_Tumor_2.tsv,189,4.4172,23,3.5652,49.2063,71.5116,0.55226
